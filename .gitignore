@@ -1,0 +1,27 @@
+# Xcode
+DerivedData/
+*.xcuserstate
+*.xcworkspace
+xcuserdata/
+
+# Swift Package Manager
+.build/
+Packages/
+
+# CocoaPods
+Pods/
+
+# Build-Produkte
+*.app
+*.ipa
+*.dSYM
+
+# Provisioning Profile und Zertifikate
+*.mobileprovision
+*.p12
+*.cer
+*.der
+
+# Weitere Daten
+.idea/
+.vscode/
