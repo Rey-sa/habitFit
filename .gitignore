@@ -27,3 +27,10 @@ Pods/
 # Weitere Daten
 .idea/
 .vscode/
+
+# Dateien für den Simulator (könnte hilfreich sein, falls du Simulator-Logs oder Data brauchst)
+*.app.dSYM
+
+# Xcode Projekt-Spezifisch
+*.xcodeproj/project.xcworkspace/
+*.xcodeproj/xcuserdata/
