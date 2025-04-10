@@ -3,6 +3,8 @@ DerivedData/
 *.xcuserstate
 *.xcworkspace
 xcuserdata/
+.DS_Store
+build/
 
 # Swift Package Manager
 .build/
